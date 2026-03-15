@@ -48,10 +48,8 @@
 <!--  ===== CONTACT ===== -->
 <div align="center">
 
-```
-SITE    →  https://chibixar.com
-STATUS  →  open to DevOps / Platform Engineer roles
-```
+[![Website](https://img.shields.io/badge/chibixar.com-00ff41?style=for-the-badge&logo=firefox&logoColor=black)](https://chibixar.com)
+[![GitHub](https://img.shields.io/badge/GitHub-chibixar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chibixar)
 
 ![visitors](https://komarev.com/ghpvc/?username=chibixar&color=00ff41&style=flat-square&label=visitors)
 
