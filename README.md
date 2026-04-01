@@ -28,8 +28,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-[![SadServers Level](https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=for-the-badge&labelColor=FFC400&logo=terraform&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
-
+[![SadServers Level](https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=flat-square&labelColor=FFC400&logo=terraform&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 </div>
 
 <!--  ===== PROJECTS ===== -->
