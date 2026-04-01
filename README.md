@@ -28,6 +28,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+[![SadServers Level](https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=for-the-badge&labelColor=FFC400&logo=terraform&logoColor=1A237E&logoSize=auto)](https://sadservers.com)
 
 </div>
 
@@ -39,7 +40,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=chibixar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=88cc88" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chibixar&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=88cc88&dates=336633" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=chibixar&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=88cc88&dates=336633" alt="GitHub Streak" />
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chibixar&bg_color=0d0d0d&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=003300&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
