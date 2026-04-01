@@ -38,7 +38,7 @@
 <!--  ===== STATS ===== -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chibixar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=88cc88" alt="GitHub Stats" />
+
 
 <img src="https://streak-stats.demolab.com?user=chibixar&theme=chartreuse-dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=88cc88&dates=336633" alt="GitHub Streak" />
 
