@@ -36,12 +36,7 @@
 <!--  ===== PROJECTS ===== -->
 
 
-<!--  ===== STATS ===== -->
-<div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chibixar&bg_color=0d0d0d&color=00ff41&line=00ff41&point=00ff41&area=true&area_color=003300&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 <!--  ===== CONTACT ===== -->
 <div align="center">
